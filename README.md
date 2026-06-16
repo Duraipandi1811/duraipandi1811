@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Durai Pandi
 
-<!--
-**Duraipandi1811/duraipandi1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+🌱 Currently learning Backend Development & MongoDB
+🚀 Building Real World Projects
+🧠 Solved 200+ LeetCode Problems
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* SQL
+* Git
+* GitHub
+
+## Projects
+
+### Perfume Shop Application
+
+Responsive e-commerce website with backend integration.
+
+### Fruit Shop Application
+
+Inventory and order management web application.
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/durai-pandi-k/
