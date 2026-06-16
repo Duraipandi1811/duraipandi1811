@@ -75,11 +75,9 @@ MongoDB • Express • Node.js
 
 📧 [duraipandi1811@gmail.com](mailto:duraipandi1811@gmail.com)
 
-💼 LinkedIn → Add your profile link
+💼 LinkedIn → https://www.linkedin.com/in/durai-pandi-k/
 
-💻 GitHub → Add your profile link
-
-🧠 LeetCode → Add your profile link
+💻 GitHub → https://github.com/duraipandi1811
 
 ---
 
