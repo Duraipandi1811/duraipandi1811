@@ -1,39 +1,86 @@
-# Hi 👋 I'm Durai Pandi
+# Hi 👋 I'm Durai Pandi K
 
-💻 Full Stack Developer
-🌱 Currently learning Backend Development & MongoDB
-🚀 Building Real World Projects
-🧠 Solved 200+ LeetCode Problems
+### 💻 Full Stack Developer | ☕ Java Developer | 🚀 MERN Stack Learner
 
-## Tech Stack
+Passionate about building scalable and user-friendly web applications
 
-* Java
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* SQL
-* Git
-* GitHub
+---
 
-## Projects
+## 👨‍💻 About Me
 
-### Perfume Shop Application
+🎓 **B.E Computer Science Engineering**
+🏫 KPR Institute of Engineering and Technology
+📈 **CGPA: 7.74**
 
-Responsive e-commerce website with backend integration.
+🔥 Solved **200+ LeetCode Problems**
 
-### Fruit Shop Application
+🌱 Currently Learning:
 
-Inventory and order management web application.
+* Backend Development
+* API Integration
+* Full Stack Development
 
-## Connect With Me
-LinkedIn: https://www.linkedin.com/in/durai-pandi-k/
+---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duraipandi1811&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duraipandi1811&layout=compact&theme=tokyonight)
+## 🚀 Featured Projects
 
+### 🛍 Perfume Shop Application
+
+🟢 Responsive UI
+🟢 REST API Integration
+🟢 MongoDB Database
+🟢 Full Stack Deployment
+
+**Tech:**
+HTML • CSS • JavaScript • Node.js • Express • MongoDB
+
+---
+
+### 🍎 Fruit Shop Application
+
+🟢 Product Management
+🟢 Cart System
+🟢 Checkout Flow
+
+**Tech:**
+MongoDB • Express • Node.js
+
+---
+
+## 🏆 Achievements
+
+🏅 200+ Coding Exercises on E-Box
+🏅 200+ LeetCode Problems Solved
+🏅 50 Day Badge & Monthly Badges
+
+---
+
+## 📜 Certifications
+
+✔ Full Stack Development Internship — Phoenix Softech
+
+✔ GitHub Foundations
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+## 🌐 Connect With Me
+
+📧 [duraipandi1811@gmail.com](mailto:duraipandi1811@gmail.com)
+
+💼 LinkedIn → Add your profile link
+
+💻 GitHub → Add your profile link
+
+🧠 LeetCode → Add your profile link
+
+---
+
+### ⭐ Building Projects • Learning • Growing Every Day ⭐
