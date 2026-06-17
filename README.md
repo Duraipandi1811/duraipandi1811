@@ -109,11 +109,15 @@ public class DuraiPandiK {
 
 ---
 
+
+<!--
 ## 📈 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Duraipandi1811?theme=dark&font=Karma&ext=heatmap" />
 </div>
+->
+
 
 ---
 
