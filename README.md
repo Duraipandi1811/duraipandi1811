@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```java
 public class DuraiPandiK {
